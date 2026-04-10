@@ -46,5 +46,5 @@ This project is an IoT-based smart agriculture monitoring system designed to mon
 This project is also published in an international conference on AI, Machine Learning, and Cybersecurity.
 
 ## 👨‍💻 Author
-Shyam Sunder Kumar
+Shyam Sunder Kumar &
 Christin Varghese
